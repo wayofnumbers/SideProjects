@@ -50,6 +50,8 @@ Models built and compared:
 - **Basic ResNet**
 - **RasNet50**
 
+---
+
 ### FashionMNIST w/ PyTorch from scratch
 
 [Notebook](https://github.com/wayofnumbers/SideProjects/blob/master/PyTorch_Tutorial_Basic_v1.ipynb)
