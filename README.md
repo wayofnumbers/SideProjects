@@ -1,8 +1,10 @@
-# README
+# Side Machine Learning Projects
 
 ## About
 
-These are some of my side projects I did when learning Machine Learning and to explore variant machine learning algorithms and models. Datasets are all public available. 
+These are some of my side projects I did when learning Machine Learning and to explore variant machine learning algorithms and models. It's more for dataset exploring and algorithms experimenting rather than problem solving. 
+
+Datasets are all public available.
 
 ## Table of Contents
 
