@@ -1,4 +1,4 @@
-# Side Machine Learning Projects
+# Michael Li - Side Machine Learning Projects
 
 ## About
 
